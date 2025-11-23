@@ -1,0 +1,9 @@
+.venv
+dataset
+uploads
+sample
+feature_list.pkl
+filenames.pkl
+*.pkl
+.idea
+.DS_Store
